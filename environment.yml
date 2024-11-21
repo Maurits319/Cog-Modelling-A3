@@ -1,0 +1,19 @@
+name: ACT-R
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2024.9.24=hecd8cb5_0
+  - certifi=2020.6.20=pyhd3eb1b0_3
+  - libffi=3.4.4=hecd8cb5_1
+  - ncurses=6.4=hcec6c5f_0
+  - pip=19.3.1=py27_0
+  - python=2.7.18=h441ce09_3
+  - readline=8.2=hca72f7f_0
+  - setuptools=44.0.0=py27_0
+  - sqlite=3.45.3=h6c40b1e_0
+  - tk=8.6.14=h4d00af3_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - zlib=1.2.13=h4b97444_1
+  - pip:
+      - ccmsuite==0.2
+prefix: /Users/mauritskoppers/anaconda3/envs/ACT-R
